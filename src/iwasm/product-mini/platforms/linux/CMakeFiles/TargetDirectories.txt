@@ -1,0 +1,12 @@
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/intrinsics_gen.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/omp_gen.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/acc_gen.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/vmlib.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/iwasm.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/libiwasm.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/edit_cache.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/rebuild_cache.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/list_install_components.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/install.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/install/local.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/CMakeFiles/install/strip.dir

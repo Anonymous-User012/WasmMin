@@ -1,0 +1,9 @@
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/vmlib.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/iwasm.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/libiwasm.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/edit_cache.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/rebuild_cache.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/list_install_components.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/install.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/install/local.dir
+/home/btxiao/project/wbsm/wasm-binary-size-study/iwasm/product-mini/platforms/linux/interp/CMakeFiles/install/strip.dir
